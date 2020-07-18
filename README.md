@@ -1,7 +1,10 @@
 # NANODRUM 2.0 MTECH
 DRUM KIT development
 
-NANODRUM é um novo DTI drum Trigger Interface pórem com um kit reduzido , menu simples mas com a algumas inovações como LED sensor e Trizone Cymbals e FSR HHC
+NANODRUM é um novo DTI drum Trigger Interface pórem com um kit reduzido. Ele é versatil com menu simples, no entanto com a algumas inovações como LED sensor, Trizone Cymbals e FSR HHC.
+
+Ele conta com uma versão standalone do ATMEGA 328AU Nano chip , Multiplexer e DC energy. Sistema integrado e Placa onboard além do design Mtech.
+
 www.mtechdrums.com.br
 
 # Microdrum MTECH v.3
